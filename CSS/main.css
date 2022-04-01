@@ -673,7 +673,7 @@ margin-right: 50px;
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background: url("/Images/quote.jpg");
+    background: url("../Images/quote.jpg");
     background-size: cover;
     position: relative;
     color: white;
